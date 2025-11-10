@@ -9,7 +9,7 @@
 }
 
 :root {
-    --font-family: 'Arial, sans-serif';
+    --font-family: 'Cinzel' serif;
     --text-color: #333;
 }
 
@@ -143,6 +143,7 @@ main { padding-top: 2rem; }
     width: auto;
     height: auto;
     color: black;
+    
 }
 
 .lista {
